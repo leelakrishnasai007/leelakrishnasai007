@@ -9,16 +9,13 @@ I'm a Data Science graduate student at the University of Michigan–Dearborn wit
 ## 🎓 Education
 
 - **M.S. in Data Science**  
-  *University of Michigan – Dearborn*  
-  2024 – Present · GPA: 3.78  
+  *University of Michigan – Dearborn (2024 – Present) · GPA: 3.78*  
 
 - **P.G.P in Data Science**  
-  *Vellore Institute of Technology – Bangalore*  
-  2023 – 2024 · CGPA: 8.69  
+  *Vellore Institute of Technology – Bangalore (2023 – 2024)*
 
 - **B.Tech in Computer Science & Engineering**  
-  *Vellore Institute of Technology – Amaravati*  
-  2019 – 2023 · CGPA: 7.49  
+  *Vellore Institute of Technology – Amaravati (2019 – 2023)*
 
 ---
 
