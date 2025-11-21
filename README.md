@@ -15,7 +15,7 @@ I'm a Data Science graduate student at the University of Michigan–Dearborn wit
 - **B.Tech in Computer Science & Engineering**  
   *Vellore Institute of Technology – Amaravati (2019 – 2023)*
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -27,7 +27,7 @@ I'm a Data Science graduate student at the University of Michigan–Dearborn wit
 - ☁️ **Cloud:** AWS (EC2, Lambda, S3)  
 - 🌐 **Collaboration & Version Control:** Git, GitHub   
 
----
+
 
 ## 🔬 Selected Projects
 
@@ -55,7 +55,7 @@ I'm a Data Science graduate student at the University of Michigan–Dearborn wit
 - Built a text analytics pipeline to analyze **UN debate transcripts** focused on US-related discussions.  
 - Used NLP to extract **sentiment trends** and **30+ key topics/subtopics**, delivering insights to support policy-oriented decision-making.
 
----
+
 
 ## 👥 Leadership & Activities
 
@@ -67,7 +67,7 @@ I'm a Data Science graduate student at the University of Michigan–Dearborn wit
   - Collaborated on technical events and projects.  
   - Helped foster a community focused on learning, collaboration, and practical skill-building.
 
----
+
 
 ## 🌱 What I’m Interested In
 
@@ -76,7 +76,7 @@ I'm a Data Science graduate student at the University of Michigan–Dearborn wit
 - Interpretable AI and model explainability  
 - Computer vision systems for real-world automation  
 
----
+
 
 ## 📫 Get in Touch
 
@@ -84,7 +84,7 @@ I'm a Data Science graduate student at the University of Michigan–Dearborn wit
 - **Location:** Dearborn, MI  
 - **LinkedIn:** `https://www.linkedin.com/in/leelakrishnasai-m/` 
 
----
+
 
 > 💡 *Feel free to explore my repositories, open issues, or reach out if you’d like to collaborate on data science, ML, or NLP projects!*
 
