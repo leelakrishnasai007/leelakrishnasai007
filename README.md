@@ -2,7 +2,7 @@
 
 I'm a Data Science graduate student at the University of Michigan–Dearborn with a strong foundation in machine learning, NLP, computer vision, and statistical analysis. I love turning messy, real-world data into meaningful insights and building intelligent systems that actually help people make decisions.
 
----
+
 
 ## 🎓 Education
 
