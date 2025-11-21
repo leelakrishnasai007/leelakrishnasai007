@@ -17,30 +17,15 @@ I'm a Data Science graduate student at the University of Michigan–Dearborn wit
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Technical Skills
 
-**Programming Languages**  
-- Python · SQL · R  
-
-**Machine Learning & AI**  
-- Predictive Modeling · Reinforcement Learning  
-- Neural Networks · NLP · Computer Vision  
-
-**Data Analysis & Visualization**  
-- Statistical Modeling · Data Visualization  
-- Text Analytics · Sentiment Analysis  
-
-**Libraries & Frameworks**  
-- NumPy · Pandas · Scikit-learn · TensorFlow  
-- OpenCV · EasyOCR · NEAT-Python  
-
-**Tools & Platforms**  
-- Jupyter Notebook · VS Code  
-- Tableau · Power BI  
-
-**Cloud & Dev Practices**  
-- AWS (EC2, Lambda, S3)  
-- Git · GitHub  
+- 💻 **Programming:** Python, SQL, R  
+- 🤖 **Machine Learning & AI:** Predictive Modeling, Reinforcement Learning, Neural Networks, NLP, Computer Vision  
+- 📊 **Data Analysis:** Statistical Modeling, Data Visualization, Text Analytics, Sentiment Analysis  
+- 🧰 **Tools & Software:** Jupyter Notebook, Tableau, Power BI, VS Code  
+- 📦 **Libraries & Frameworks:** NumPy, Pandas, TensorFlow, Scikit-learn, OpenCV, EasyOCR, NEAT-Python  
+- ☁️ **Cloud:** AWS (EC2, Lambda, S3)  
+- 🌐 **Collaboration & Version Control:** Git, GitHub   
 
 ---
 
