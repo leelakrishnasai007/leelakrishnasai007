@@ -1,8 +1,18 @@
-# Hi there, I'm Leela Krishna Sai 👋
+<div align="center">
 
-🎓 **M.S. Data Science** @ University of Michigan–Dearborn · GPA: 3.78
-🤖 Building intelligent systems with **ML · NLP · Computer Vision**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Leela+Krishna+Sai+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;NLP+%7C+Computer+Vision+Enthusiast;Building+Intelligent+Systems+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+<br/>
+
+🎓 **M.S. Data Science** @ University of Michigan–Dearborn · GPA: 3.78 <br/>
+🤖 Building intelligent systems with **ML · NLP · Computer Vision** <br/>
 📍 Dearborn, MI
+
+<br/>
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=leelakrishnasai007.leelakrishnasai007&style=flat-square&color=0969da&label=Profile%20Views)
+
+</div>
 
 ---
 
@@ -38,5 +48,9 @@
 
 ## 📫 Connect with Me
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leelakrishnasai-m/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandapatileelakrishnasai@gmail.com)
+
+</div>
