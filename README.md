@@ -8,10 +8,6 @@
 💡 Passionate about building **data-driven solutions** that create real-world impact through **ML, NLP & Computer Vision** <br/>
 📍 Dearborn, MI
 
-<br/>
-
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=leelakrishnasai007.leelakrishnasai007&style=flat-square&color=0969da&label=Profile%20Views)
-
 </div>
 
 ---
@@ -35,14 +31,18 @@
 
 ## 🔬 Featured Projects
 
+<div align="center">
+
 | Project | Description | Stack |
-|---|---|---|
+|:---:|:---:|:---:|
 | [🚗 AI Car Simulation](https://github.com/leelakrishnasai007/AI-Car-Simulation-using-NEAT-Algorithm) | Self-driving cars via NEAT neuroevolution | Python, NEAT |
 | [🌱 Smart Soil Crop Recommender](https://github.com/leelakrishnasai007/Smart-Soil-Crop-Recommender) | 97% accuracy ML crop prediction from soil data | Python, scikit-learn |
 | [🚘 License Plate Recognition](https://github.com/leelakrishnasai007/Automatic-License-Plate-Recognition) | 98% accuracy ANPR system | OpenCV, EasyOCR |
 | [💬 Mental Health Chatbot](https://github.com/leelakrishnasai007/Enigma-Mental-Health-Chatbot) | NLP-powered empathetic support chatbot | Python, Streamlit |
 | [🏛️ UN Debate Analytics](https://github.com/leelakrishnasai007/Analysis-of-the-US-at-UN-Debates) | Sentiment & topic analysis of US speeches | Python, NLP |
 | [☁️ Smart Door AWS](https://github.com/leelakrishnasai007/Smart-Door-AWS) | Cloud-based facial recognition door system | AWS, Rekognition |
+
+</div>
 
 ---
 
