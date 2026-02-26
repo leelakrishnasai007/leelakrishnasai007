@@ -1,90 +1,51 @@
 # Hi there, I'm Leela Krishna Sai 👋
 
-I'm a Data Science graduate student at the University of Michigan–Dearborn with a strong foundation in machine learning, NLP, computer vision, and statistical analysis. I love turning messy, real-world data into meaningful insights and building intelligent systems that actually help people make decisions.
+🎓 **M.S. Data Science** @ University of Michigan–Dearborn · GPA: 3.78
+🤖 Building intelligent systems with **ML · NLP · Computer Vision**
+📍 Dearborn, MI
 
+---
 
+## 🛠️ Tech Stack
 
-## 🎓 Education
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- **M.S. in Data Science**  
-  *University of Michigan – Dearborn (2024 – Present) · GPA: 3.78*  
+---
 
-- **P.G.P in Data Science**  
-  *Vellore Institute of Technology – Bangalore (2023 – 2024)*
+## 🔬 Featured Projects
 
-- **B.Tech in Computer Science & Engineering**  
-  *Vellore Institute of Technology – Amaravati (2019 – 2023)*
+| Project | Description | Stack |
+|---|---|---|
+| [🚗 AI Car Simulation](https://github.com/leelakrishnasai007/AI-Car-Simulation-using-NEAT-Algorithm) | Self-driving cars via NEAT neuroevolution | Python, NEAT |
+| [🌱 Smart Soil Crop Recommender](https://github.com/leelakrishnasai007/Smart-Soil-Crop-Recommender) | 97% accuracy ML crop prediction from soil data | Python, scikit-learn |
+| [🚘 License Plate Recognition](https://github.com/leelakrishnasai007/Automatic-License-Plate-Recognition) | 98% accuracy ANPR system | OpenCV, EasyOCR |
+| [💬 Mental Health Chatbot](https://github.com/leelakrishnasai007/Enigma-Mental-Health-Chatbot) | NLP-powered empathetic support chatbot | Python, Streamlit |
+| [🏛️ UN Debate Analytics](https://github.com/leelakrishnasai007/Analysis-of-the-US-at-UN-Debates) | Sentiment & topic analysis of US speeches | Python, NLP |
+| [☁️ Smart Door AWS](https://github.com/leelakrishnasai007/Smart-Door-AWS) | Cloud-based facial recognition door system | AWS, Rekognition |
 
+---
 
+## 📊 GitHub Stats
 
-## 🛠️ Technical Skills
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leelakrishnasai007&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leelakrishnasai007&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-- 💻 **Programming:** Python, SQL, R  
-- 🤖 **Machine Learning & AI:** Predictive Modeling, Reinforcement Learning, Neural Networks, NLP, Computer Vision  
-- 📊 **Data Analysis:** Statistical Modeling, Data Visualization, Text Analytics, Sentiment Analysis  
-- 🧰 **Tools & Software:** Jupyter Notebook, Tableau, Power BI, VS Code  
-- 📦 **Libraries & Frameworks:** NumPy, Pandas, TensorFlow, Scikit-learn, OpenCV, EasyOCR, NEAT-Python  
-- ☁️ **Cloud:** AWS (EC2, Lambda, S3)  
-- 🌐 **Collaboration & Version Control:** Git, GitHub   
+---
 
+## 📫 Connect with Me
 
-
-## 🔬 Selected Projects
-
-### 🚗 AI Car Simulation
-- Designed and tested custom racetracks using the **NEAT algorithm** to optimize virtual car performance.  
-- Helped refine the simulation pipeline by identifying the **top three track designs** with the best obstacle avoidance metrics.
-
-### 🌱 Smart Soil Crop Recommender
-- Built ML-based models to recommend crops tailored to soil and environmental conditions.  
-- Achieved **97% predictive accuracy**, supporting farmers with data-driven cultivation decisions.
-
-### 🚘 Automatic Number Plate Recognition (ANPR)
-- Developed an ANPR system using real-world vehicle plate images.  
-- Leveraged **OpenCV, EasyOCR, and ML techniques** to reach **98% accuracy** in plate detection and text extraction.
-
-### 📈 Stock Prediction Using APT
-- Implemented a stock price prediction model based on **Arbitrage Pricing Theory (APT)** and machine learning.  
-- Achieved **93% forecasting accuracy**, identifying key market trends to inform investment strategies.
-
-### 💬 Chatbot for Mental Health
-- Created an NLP-driven chatbot to provide empathetic and confidential mental health support.  
-- Optimized model training and dialog flows to achieve **95% response accuracy**, improving user engagement and communication quality.
-
-### 🏛 Analytics of US Debates at the UN
-- Built a text analytics pipeline to analyze **UN debate transcripts** focused on US-related discussions.  
-- Used NLP to extract **sentiment trends** and **30+ key topics/subtopics**, delivering insights to support policy-oriented decision-making.
-
-
-
-## 👥 Leadership & Activities
-
-- **Club Representative – VIT Amaravati**  
-  - Organized the college’s first Spanish-themed event, **“Sombrero”**, with **200+ attendees**.  
-  - Led a team of **10 volunteers**, driving cultural engagement and smooth event execution.
-
-- **Android Club & CIS Club – Active Member**  
-  - Collaborated on technical events and projects.  
-  - Helped foster a community focused on learning, collaboration, and practical skill-building.
-
-
-
-## 🌱 What I’m Interested In
-
-- Building end-to-end ML pipelines (from data collection to deployment)  
-- NLP applications for social good (mental health, policy, accessibility)  
-- Interpretable AI and model explainability  
-- Computer vision systems for real-world automation  
-
-
-
-## 📫 Get in Touch
-
-- **Email:** `mandapatileelakrsihnasai@gmail.com`  
-- **Location:** Dearborn, MI  
-- **LinkedIn:** `https://www.linkedin.com/in/leelakrishnasai-m/` 
-
-
-
-> 💡 *Feel free to explore my repositories, open issues, or reach out if you’d like to collaborate on data science, ML, or NLP projects!*
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leelakrishnasai-m/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandapatileelakrishnasai@gmail.com)
