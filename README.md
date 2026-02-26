@@ -5,7 +5,7 @@
 <br/>
 
 🎓 **M.S. Data Science** @ University of Michigan–Dearborn · GPA: 3.78 <br/>
-🤖 Building intelligent systems with **ML · NLP · Computer Vision** <br/>
+💡 Passionate about building **data-driven solutions** that create real-world impact through **ML, NLP & Computer Vision** <br/>
 📍 Dearborn, MI
 
 <br/>
